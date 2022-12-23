@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeni-portfolio/static/css/main.3bc692aa.css",
+    "main.js": "/jeni-portfolio/static/js/main.8bd03e11.js",
+    "static/js/787.ef9e289f.chunk.js": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js",
+    "index.html": "/jeni-portfolio/index.html",
+    "main.3bc692aa.css.map": "/jeni-portfolio/static/css/main.3bc692aa.css.map",
+    "main.8bd03e11.js.map": "/jeni-portfolio/static/js/main.8bd03e11.js.map",
+    "787.ef9e289f.chunk.js.map": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc692aa.css",
+    "static/js/main.8bd03e11.js"
+  ]
+}
