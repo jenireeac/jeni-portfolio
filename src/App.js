@@ -2,11 +2,11 @@ import React from 'react';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import Home from './components/Home';
-import Work from './components/Work';
+import Home from './pages/Home';
+import Work from './pages/Work';
 import Bar from './components/Navbar';
-import About from './components/About';
-import Contact from './components/Contact';
+import About from './pages/About';
+import Contact from './pages/Contact';
 function App() {
   return (
     <div>
