@@ -1,7 +1,29 @@
-.App {
+/* .work-card {
+  background-color: #6fdcbf;
+  margin: 55px;
+  display: flex;
+  justify-content: center;
+} */
+
+/* .box {
+  background-color: white;
+  margin: 20px;
+  padding: 10px;
+  list-style: none;
+  font-weight: 400;
+  font-size: 25px;
+} */
+.home-card {
+  color: #4c3a69;
+  padding: 3em;
   text-align: center;
-}
-body{
-  background: #352f44;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
+.image-card{
+  border: 9px dotted #4c3a69;
+  
+}
