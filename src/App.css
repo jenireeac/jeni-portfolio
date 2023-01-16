@@ -17,13 +17,16 @@
   color: #4c3a69;
   padding: 3em;
   text-align: center;
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 23px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 
-.image-card{
-  border: 9px dotted #4c3a69;
-  
+.image-card {
+  border: 14px dotted #4c3a69;
+}
+
+.text-card{
+  text-shadow: 5px 5px 9px rgba(78, 21, 79, 0.4);
+color: #4c3a69;
 }

@@ -2,8 +2,8 @@ import React from "react";
 
 const Contact = () => {
     return (
-        <div id="contact">
-            <h1 >Contact Me</h1>
+        <div className="text-card text-card animate__animated  animate__slideInLeft" id="contact">
+            <h3>Contact Me</h3>
         </div>
     )
 }

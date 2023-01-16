@@ -8,7 +8,7 @@ import Stack from "react-bootstrap/Stack";
 const Work = () => {
   return (
     <>
-      <h3 id="work">My Most Recent Work</h3>
+      <h3 className="text-card text-card animate__animated  animate__slideInLeft" id="work">My Most Recent Work</h3>
       <Stack className="m-3" gap={4}>
         <a href="https://www.shecodes.io/workshops/shecodes-plus-d06049c3-f016-47b1-8d88-446d4f80d767/projects/676656">
           <div className="bg-light border p-3">Weather App</div>
@@ -22,6 +22,7 @@ const Work = () => {
         <a href="https://polar-atoll-04436.herokuapp.com/">
           <div className="bg-light border p-3">Skynet Watch</div>
         </a>
+        
       </Stack>
     </>
   );

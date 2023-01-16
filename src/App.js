@@ -1,4 +1,5 @@
 import React from 'react';
+import 'animate.css'; 
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Home from './pages/Home';
