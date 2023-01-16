@@ -13,6 +13,11 @@
   font-weight: 400;
   font-size: 25px;
 } */
+
+* {
+  padding: 0;
+  margin: 0;
+}
 .home-card {
   color: #4c3a69;
   padding: 3em;
@@ -21,12 +26,37 @@
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
-
 .image-card {
   border: 14px dotted #4c3a69;
 }
-
-.text-card{
+.text-card {
   text-shadow: 5px 5px 9px rgba(78, 21, 79, 0.4);
-color: #4c3a69;
+  color: #4c3a69;
+}
+
+@media screen and (min-width: 992px) {
+  .home-text {
+    letter-spacing: 4px;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid hsl(0, 0%, 80%);
+    animation: typewriter 4s steps(44) 1s 1 normal both,
+      blinkTextCursor 500ms infinite;
+  }
+  @keyframes typewriter {
+    from {
+      width: 0;
+    }
+    to {
+      width: 700px;
+    }
+  }
+  @keyframes blinkTextCursor {
+    from {
+      border-right-color: hsl(0, 0%, 80%);
+    }
+    to {
+      border-right-color: transparent;
+    }
+  }
 }
