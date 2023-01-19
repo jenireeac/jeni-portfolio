@@ -19,6 +19,7 @@ div a:hover {
 
 .text-card {
   color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .home-card {
   padding: 3em;
@@ -45,22 +46,28 @@ div a:hover {
 .image-card {
   border: 14px dotted pink;
 }
-
-@media screen and (min-width: 992px) {
+.about-text {
+  color: white;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+ 
+}
+@media screen and (min-width: 1500px) {
   .home-text {
     letter-spacing: 4px;
     overflow: hidden;
     white-space: nowrap;
     border-right: 2px solid hsl(0, 0%, 80%);
     animation: typewriter 4s steps(44) 1s 1 normal both,
-      blinkTextCursor 500ms infinite;
+      blinkTextCursor 600ms infinite;
   }
   @keyframes typewriter {
     from {
       width: 0;
     }
     to {
-      width: 700px;
+      width: 650px;
     }
   }
   @keyframes blinkTextCursor {

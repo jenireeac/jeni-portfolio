@@ -15,13 +15,15 @@ function App() {
     <div>
       <header>
 <Bar/>
+<Home/>
       </header>
      <main>
-<Home/>
-<About/>
 <Work/>
+<About/>
+      </main>
+      <footer>
 <Contact/>
-      </main> 
+        </footer> 
     </div>
   );
 }

@@ -4,24 +4,24 @@ const Bar = () => {
   return (
     
 <>
-<nav class="navbar navbar-expand-lg bg-body-tertiary nav">
-  <div class="container-fluid">
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+<nav class="navbar navbar-expand-lg nav">
+  <div class="container-fluid ">
+    <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon bg-light"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
+    <div class="collapse navbar-collapse " id="navbarNav">
+      <ul class="navbar-nav ">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
+          <a class="nav-link fs-5 " href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#work">Projects</a>
+          <a class="nav-link fs-5 " href="#work">Projects</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact </a>
+        <li class="nav-item ">
+          <a class="nav-link fs-5" href="#contact">Contact </a>
         </li>
       </ul>
     </div>

@@ -9,7 +9,7 @@ const Work = () => {
   return (
     <div>
       <h3
-        className="text-card animate__animated  animate__slideInLeft"
+        className=" m-2 p-4 text-card animate__animated  animate__slideInLeft"
         id="work"
       >
         My Most Recent Work
