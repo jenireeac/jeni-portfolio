@@ -1,10 +1,18 @@
 import React from "react";
+import Linkedln from '../assets/linkedln.png'
 
 const Contact = () => {
     return (
-        <div className=" m-2 p-4 text-card text-card animate__animated  animate__slideInLeft" id="contact">
-            <h3>Contact Me</h3>
-        </div>
+        <>
+        <h3
+        className=" m-2 p-4 text-card animate__animated  animate__slideInLeft"
+        id="contact"
+        >
+       Contact Me
+      </h3>
+    <img className="d-block mx-auto" src={Linkedln} alt="" width={50}/>
+
+          </>
     )
 }
 
