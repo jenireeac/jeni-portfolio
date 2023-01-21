@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/jeni-portfolio/static/css/main.061ebef4.css",
-    "main.js": "/jeni-portfolio/static/js/main.cee2a3f2.js",
+    "main.js": "/jeni-portfolio/static/js/main.6e162989.js",
     "static/js/787.ef9e289f.chunk.js": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js",
     "static/media/me.jpg.jpg": "/jeni-portfolio/static/media/me.jpg.c4d24150b8f2f19fc38e.jpg",
     "static/media/Avatar.png": "/jeni-portfolio/static/media/Avatar.6aed93c8b97f25db5dc3.png",
     "static/media/linkedln.png": "/jeni-portfolio/static/media/linkedln.f249b38224ca41a0b909.png",
     "index.html": "/jeni-portfolio/index.html",
     "main.061ebef4.css.map": "/jeni-portfolio/static/css/main.061ebef4.css.map",
-    "main.cee2a3f2.js.map": "/jeni-portfolio/static/js/main.cee2a3f2.js.map",
+    "main.6e162989.js.map": "/jeni-portfolio/static/js/main.6e162989.js.map",
     "787.ef9e289f.chunk.js.map": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.061ebef4.css",
-    "static/js/main.cee2a3f2.js"
+    "static/js/main.6e162989.js"
   ]
 }
