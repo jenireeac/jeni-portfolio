@@ -17,7 +17,7 @@ const Work = () => {
       <Stack className="work-card" gap={3}>
         <a
           className="box"
-          href="https://www.shecodes.io/workshops/shecodes-plus-d06049c3-f016-47b1-8d88-446d4f80d767/projects/676656"
+          href="https://www.shecodes.io/workshops/shecodes-plus-d06049c3-f016-47b1-8d88-446d4f80d767/projects/676656" target='blank'
         >
           <h4>Weather App</h4>
           <p>
@@ -32,7 +32,7 @@ const Work = () => {
         </a>
         <a
           className="box"
-          href="https://www.shecodes.io/workshops/shecodes-basics-57b3ec84-8a72-4cf7-ad84-a02f519069f0/projects/534115"
+          href="https://www.shecodes.io/workshops/shecodes-basics-57b3ec84-8a72-4cf7-ad84-a02f519069f0/projects/534115" target='blank'
         >
           <h4>Cat Website</h4>
           <p>
@@ -45,7 +45,7 @@ const Work = () => {
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </a>
-        <a className="box" href="https://jlara65.github.io/music-player/">
+        <a className="box" href="https://jlara65.github.io/music-player/" target='blank'>
           <h4>Music Player</h4>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -57,7 +57,7 @@ const Work = () => {
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
         </a>
-        <a className="box" href="https://polar-atoll-04436.herokuapp.com/">
+        <a className="box" href="https://polar-atoll-04436.herokuapp.com/" target='blank'>
           <h4>Skynet Watch</h4>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
