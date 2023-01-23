@@ -2,11 +2,11 @@ import React from 'react';
 import 'animate.css'; 
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import Home from './pages/Home';
-import Work from './pages/Work';
-import Bar from './components/Navbar';
-import About from './pages/About';
-import Contact from './pages/Contact';
+import Home from './components/Home/index'
+import Work from './components/Projects/index';
+import Bar from './components/Navbar/index';
+import About from './components/About/index';
+import Contact from './components/Contact/index';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
