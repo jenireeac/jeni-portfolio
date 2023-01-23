@@ -3,7 +3,7 @@ import Avatar from "../assets/Avatar.png";
 import "animate.css";
 const Home = () => {
   return (
-    <div className="container home-card ">
+    <div className="container cards line-box">
       <div className="row">
         <div className="col-lg-6">
           <img src={Avatar} alt="Portfolio Avatar" className="img-fluid rounded-circle image-card" />

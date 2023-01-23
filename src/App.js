@@ -12,19 +12,22 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
+    <body>
+
     <div>
       <header>
 <Bar/>
 <Home/>
       </header>
      <main>
-<Work/>
 <About/>
+<Work/>
       </main>
       <footer>
 <Contact/>
         </footer> 
     </div>
+    </body>
   );
 }
 

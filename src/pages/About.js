@@ -11,9 +11,9 @@ const About = () => {
        
         About Me
       </h3>
-      <Container>
+      <Container className="body-card line-box">
         <Row>
-          <Col className="home-card">
+          <Col className="cards">
             <div className="about-text">
               <strong>
                 <p>

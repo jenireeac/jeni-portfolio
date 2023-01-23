@@ -9,12 +9,12 @@ const Work = () => {
   return (
     <div>
       <h3
-        className=" m-2 p-4 text-card animate__animated  animate__slideInLeft"
+        className=" m-5 p-4 text-card animate__animated  animate__slideInLeft"
         id="work"
       >
         My Most Recent Work
       </h3>
-      <Stack className="work-card" gap={4}>
+      <Stack className="work-card" gap={3}>
         <a
           className="box"
           href="https://www.shecodes.io/workshops/shecodes-plus-d06049c3-f016-47b1-8d88-446d4f80d767/projects/676656"
