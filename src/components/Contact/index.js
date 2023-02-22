@@ -12,6 +12,7 @@ const Contact = () => {
       >
         Contact Me
       </h3>
+      <p className="text-center fs-5"><strong>dev.jenireealvarez@gmail.com</strong></p>
       <div className="text-center">
         <a href="https://www.linkedin.com/in/jeniree-alvarez-4ba997206/details/interests/?detailScreenTabIndex=0" target='blank'>
       <img className="m-2" src={Linkedln} alt="Linkedln icon" width={50} />

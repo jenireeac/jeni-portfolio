@@ -7,7 +7,7 @@ import Col from "react-bootstrap/Col";
 const About = () => {
   return (
     <>
-      <h3 className=" m-2 p-4 text-card " id="about">
+      <h3 className=" m-2 p-4 text-card animate__animated  animate__slideInLeft " id="about">
         About Me
       </h3>
       <Container className="body-card line-box">
