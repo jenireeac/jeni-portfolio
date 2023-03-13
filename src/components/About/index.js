@@ -34,7 +34,7 @@ const About = () => {
           </Col>
           <Col className="">
             <img
-              className=" selfie-card rounded mx-auto d-block m-5"
+              className=" selfie-card  rounded mx-auto d-block m-5"
               src={Me}
               alt="Selfie of Jeni ALvarez"
               width={400}
