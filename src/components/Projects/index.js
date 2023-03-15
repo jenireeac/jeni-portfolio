@@ -38,7 +38,7 @@ const Work = () => {
           target="blank"
         >
           <h4>Cat Website</h4>
-          <p>Create it an cat lover website</p>
+          <p>Website for cat lovers </p>
           <img src={Catwebsite} className="rounded mx-auto d-block porject-card" alt="" />
         </a>
 
