@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/jeni-portfolio/static/css/main.3c93daf1.css",
-    "main.js": "/jeni-portfolio/static/js/main.528893b7.js",
+    "main.css": "/jeni-portfolio/static/css/main.9bb33c0a.css",
+    "main.js": "/jeni-portfolio/static/js/main.f2b9d69f.js",
     "static/js/787.ef9e289f.chunk.js": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js",
     "static/media/recipes.png": "/jeni-portfolio/static/media/recipes.dcf512c5657363974b43.png",
     "static/media/me.jpg.jpg": "/jeni-portfolio/static/media/me.jpg.c4d24150b8f2f19fc38e.jpg",
-    "static/media/catwebsite.jpg": "/jeni-portfolio/static/media/catwebsite.be70742328b92bb2180a.jpg",
     "static/media/MusicApp.png": "/jeni-portfolio/static/media/MusicApp.4873b2c8a2164735320e.png",
     "static/media/Avatar.png": "/jeni-portfolio/static/media/Avatar.6aed93c8b97f25db5dc3.png",
     "static/media/skynet.png": "/jeni-portfolio/static/media/skynet.0284ce755e785718ba21.png",
@@ -14,12 +13,12 @@
     "static/media/weatherApp.jpg": "/jeni-portfolio/static/media/weatherApp.de00e7b992c63ac557c4.jpg",
     "static/media/linkedln.png": "/jeni-portfolio/static/media/linkedln.f249b38224ca41a0b909.png",
     "index.html": "/jeni-portfolio/index.html",
-    "main.3c93daf1.css.map": "/jeni-portfolio/static/css/main.3c93daf1.css.map",
-    "main.528893b7.js.map": "/jeni-portfolio/static/js/main.528893b7.js.map",
+    "main.9bb33c0a.css.map": "/jeni-portfolio/static/css/main.9bb33c0a.css.map",
+    "main.f2b9d69f.js.map": "/jeni-portfolio/static/js/main.f2b9d69f.js.map",
     "787.ef9e289f.chunk.js.map": "/jeni-portfolio/static/js/787.ef9e289f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c93daf1.css",
-    "static/js/main.528893b7.js"
+    "static/css/main.9bb33c0a.css",
+    "static/js/main.f2b9d69f.js"
   ]
 }
