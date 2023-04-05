@@ -24,7 +24,7 @@ const About = () => {
               </p>
               <p>
                 I am now a full stack web developer certificate focused in:
-                React.js, Node.js, CSS3, Bootstrap, HTML5, APIs and Javascript
+                React.js, Node.js, CSS3, Bootstrap, HTML5, APIs, Javascript, Express.js, handlebars.js
               </p>
               <p>
                 Few of my hobbies are spending time with my pets, friends and
@@ -32,7 +32,7 @@ const About = () => {
               </p>
             </div>
           </Col>
-          <Col className="">
+          <Col>
             <img
               className=" selfie-card  rounded mx-auto d-block m-5"
               src={Me}

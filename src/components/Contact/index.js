@@ -23,7 +23,9 @@ const Contact = () => {
         <a href="mailto:dev.jenireealvarez@gmail.com">
       <img className="m-2" src={Gmail} alt="Gmail icon" width={50} />
         </a>
+        <a href="https://docs.google.com/document/d/1gyPeGU4v79dOQGYgQRYrleUYRRSWirmUBAippzCZTH0/edit?usp=sharing" target='blank'>
         <img className="m-2" src={Cv} alt="Resume icon" width={50} />
+        </a>
       </div>
     </div>
   );
