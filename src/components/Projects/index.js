@@ -1,6 +1,5 @@
 import React from "react";
 import Weather from "../../assets/projects/weatherApp.jpg";
-import Catwebsite from "../../assets/projects/catwebsite.jpg";
 import MusicApp from "../../assets/projects/MusicApp.png";
 import Recipes from "../../assets/projects/recipes.png";
 import Stack from "react-bootstrap/Stack";
@@ -35,43 +34,23 @@ const Work = () => {
             alt=""
           />
           <div className="button-card">
-          <button
-              type="button"
-              class="btn btn-light"
-              data-mdb-ripple-color="dark"
+            <a
+              href="https://blissful-minsky-584121.netlify.app/"
+              target="blank"
             >
-              Project
-            </button>
-            <button type="button" class="btn btn-dark">
-              Github
-            </button>
-          </div>
-        </div>
-
-        {/* // 2nd project  */}
-        <div
-          className="box"
-          // href="https://www.shecodes.io/workshops/shecodes-basics-57b3ec84-8a72-4cf7-ad84-a02f519069f0/projects/534115"
-          // target="blank"
-        >
-          <h4>Cat Website</h4>
-          <p>Website for cat lovers </p>
-          <img
-            src={Catwebsite}
-            className="rounded mx-auto d-block porject-card"
-            alt=""
-          />
-          <div className="button-card">
-          <button
-              type="button"
-              class="btn btn-light"
-              data-mdb-ripple-color="dark"
-            >
-              Project
-            </button>
-            <button type="button" class="btn btn-dark">
-              Github
-            </button>
+              <button
+                type="button"
+                class="btn btn-light"
+                data-mdb-ripple-color="dark"
+              >
+                Project
+              </button>
+            </a>
+            <a href="https://github.com/jenireeac/weather-app" target="blank">
+              <button type="button" class="btn btn-dark">
+                Github
+              </button>
+            </a>
           </div>
         </div>
 
@@ -93,16 +72,20 @@ const Work = () => {
             alt=""
           />
           <div className="button-card">
-          <button
-              type="button"
-              class="btn btn-light"
-              data-mdb-ripple-color="dark"
-            >
-              Project
-            </button>
-            <button type="button" class="btn btn-dark">
-              Github
-            </button>
+            <a href="https://jlara65.github.io/music-player/" target="blank">
+              <button
+                type="button"
+                class="btn btn-light"
+                data-mdb-ripple-color="dark"
+              >
+                Project
+              </button>
+            </a>
+            <a href="https://github.com/jlara65/music-player" target="blank">
+              <button type="button" class="btn btn-dark">
+                Github
+              </button>
+            </a>
           </div>
         </div>
 
@@ -125,16 +108,26 @@ const Work = () => {
             alt=""
           />
           <div className="button-card">
-          <button
-              type="button"
-              class="btn btn-light"
-              data-mdb-ripple-color="dark"
+            <a
+              href="https://protected-atoll-82762.herokuapp.com/"
+              target="blank"
             >
-              Project
-            </button>
-            <button type="button" class="btn btn-dark">
-              Github
-            </button>
+              <button
+                type="button"
+                class="btn btn-light"
+                data-mdb-ripple-color="dark"
+              >
+                Project
+              </button>
+            </a>
+            <a
+              href="https://github.com/dlope0831/what-is-the-recipe"
+              target="blank"
+            >
+              <button type="button" class="btn btn-dark">
+                Github
+              </button>
+            </a>
           </div>
         </div>
         {/* // 5th project  */}
@@ -155,16 +148,20 @@ const Work = () => {
             alt=""
           />
           <div className="button-card">
-            <button
-              type="button"
-              class="btn btn-light"
-              data-mdb-ripple-color="dark"
-            >
-              Project
-            </button>
-            <button type="button" class="btn btn-dark">
-              Github
-            </button>
+            <a href="https://polar-atoll-04436.herokuapp.com/" target="blank">
+              <button
+                type="button"
+                class="btn btn-light"
+                data-mdb-ripple-color="dark"
+              >
+                Project
+              </button>
+            </a>
+            <a href="https://github.com/dlope0831/SkyNet-Watch" target="blank">
+              <button type="button" class="btn btn-dark">
+                Github
+              </button>
+            </a>
           </div>
         </div>
       </Stack>
